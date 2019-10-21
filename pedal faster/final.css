@@ -1,0 +1,95 @@
+body{
+background-image:url("bg.jpg");
+background-position:right top;
+}
+.header{
+	background-color:#484B4D;
+	height:70px;
+	width:1384px;
+	margin-left:-2%;
+}
+.pedal{
+	color:white;
+	margin-left:10%;
+	margin-top:-5%;
+	font-style:bold;
+}
+.faster{
+	color:red;
+	margin-top:-2.5%;
+	margin-left:15%;
+}
+.the{
+	color:white;
+	margin-left:10%;
+	margin-top:-1%;
+}
+.menu{
+	color:white;
+	margin-left:65%;
+	margin-top:-4%;
+}
+.triangle1{
+    margin-left:10%;
+    margin-top:-4%;	
+}
+.triangle2{
+	margin-left:18.5%;
+	margin-top:-28%;
+}
+.fixed{
+	color:95A9B0;
+	margin-left:45%;
+	margin-top:-27%;
+	font-size:30px;
+}
+.date{
+	color: white;
+	margin-left:62%;
+}
+.sent{
+	color:white;
+	margin-left:62%;
+	font-size:15px;
+}
+.hr{
+	margin-left:10%;
+	margin-top:4%;
+	margin-right:12%;
+}
+.more{
+	color:white;
+	margin-left:10%;
+}
+.img1{
+	margin-left:10%;
+	color:white;
+	margin-right:73%;
+}
+.img2{
+	margin-left:31%;
+	margin-top:-26.6%;
+	color:white;
+	margin-right:52%;
+}
+.img3{
+	margin-left:51%;
+	margin-right:32%;
+	color:white;
+	margin-top:-26.6%;
+	
+}
+.img4{
+	margin-left:71%;
+	margin-right:12%;
+	color:white;
+	margin-top:-25.3%;	
+}
+.footer{
+	background-color:#484B4D;
+	color:white;
+    margin-top:10%;	
+}
+.text{
+	margin-left:58%;
+}
